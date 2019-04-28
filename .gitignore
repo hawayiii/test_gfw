@@ -1,0 +1,11 @@
+# dir
+/.idea/
+/bin/
+
+
+# file
+.DS_Store
+
+# vendor
+/vendor/
+!/vendor/vendor.json
